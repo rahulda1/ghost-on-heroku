@@ -26,7 +26,7 @@ config = {
 
   // Production (Heroku)
   production: {
-    url: 'http://duetdisplayblog.herokuapp.com/blog/'),
+    url: 'http://duetdisplayblog.herokuapp.com/blog/',
     mail: {
       transport: 'SMTP',
       options: {
